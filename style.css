@@ -1,0 +1,35 @@
+
+        h1{
+            margin: 50px 350px;
+        }
+        div{
+            background-color: black;
+            border:1px solid black;
+            padding: 20px 50px;
+            width:400px;
+            border-radius: 5px;
+            margin: 0px 250px;
+        }
+        input{
+            width:350px;
+            padding: 5px;
+            position: absolute;
+        }
+        input:hover{
+            background-color:  rgb(231, 227, 227);
+        }
+        input:focus{
+            outline: none;
+        }
+        button{
+            position: relative;
+            left: 100px;
+            width: 150px;
+            height: 30px;
+            border-radius: 10px;
+            background-position-x: white;
+            font-size: 15px;
+        }
+        button:hover{
+            background-color: beige;
+        }
